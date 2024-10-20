@@ -1,4 +1,4 @@
-# intellistar-emulator
+# intellistar-2-jr-emulator
 A web application that displays weather information in the same visual presentation as the cable headend unit [Intellistar](https://en.wikipedia.org/wiki/IntelliStar).
 
 ## Overview
@@ -6,7 +6,7 @@ This is a local forecast segment that airs on The Weather Channel called the "Lo
 
 ## Instructions
 ## Option 1 (easier)
-1. Visit: <https://qconrad.github.io/intellistar-emulator/>.
+1. Visit: <https://fdezwonders.github.io/intellistar-2-jr-emulator/>.
 2. Enter zip code
 3. Click start
 4. Press F11 for fullscreen
@@ -27,8 +27,6 @@ This is a local forecast segment that airs on The Weather Channel called the "Lo
 
 ## Features
 Most of core animation and logic has been replicated including severe weather alerts, forecast descriptions, crawl text, and the Doppler radar map.
-
-*Some of these features are temporarily not working due to the discontinuation of WU's API*
 
 ## Looping
 To enable or disable looping, click on the TWC logo in the info-bar in the top-left corner of the emulator.
